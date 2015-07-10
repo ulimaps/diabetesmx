@@ -1,6 +1,7 @@
 # diabetesmx
 
 Resultado de consulta a la base de datos SAEH de la Secretaría de Salud. 
+
 Tabla dinámica_Hoja1_2: 
 
 Se listan el número de casos por año en cada municipio (según la contatenación "clave de estado"&"clave de municipio"=ID_ENT_MUN
